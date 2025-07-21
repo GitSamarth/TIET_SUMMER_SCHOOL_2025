@@ -108,6 +108,6 @@ Each project includes accessible code, documentation, and (where relevant) scree
 **Samarth Mahajan**  
 3rd Year B.Tech, Computer Engineering  
 Thapar Institute of Engineering & Technology, Patiala  
-[LinkedIn](https://www.linkedin.com/in/samarthmahajan)
+[LinkedIn](https://www.linkedin.com/in/samarth-mahajan-b62a6b274/)
 
-_Onwards and upwards!_
+Keep learning. Keep building.
